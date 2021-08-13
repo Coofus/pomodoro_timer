@@ -1,2 +1,2 @@
-# pomodoro_timer
-simple pomodoro timer
+# Pomodoro
+A simple pomodoro timer for staying productive!
